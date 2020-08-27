@@ -1,0 +1,80 @@
+---
+title: "Psych-verbs: Analysis of the 'Verb Rating' experiment"
+author: Lorena Ciutacu (ciutacua@hu-berlin.de)
+output: html_notebook
+---
+
+```{r}
+library(dplyr)
+library(readxl)
+library(ggplot2)
+df <- read_excel("psychverbs.xlsx")
+df
+```
+#Summary statistics
+```{r}
+summary(df)
+```
+##Verb Duration
+```{r}
+hist(df$Duration,
+     main="Histogram of verb duration",
+     xlab="Duration rating",
+     col="skyblue",
+     breaks=seq(1, 5, by=0.5))
+```
+```{r}
+ggplot(data=df, aes(x=df$Duration)) + 
+  geom_histogram(breaks=seq(1, 5, by=0.5), 
+                 col="black", 
+                 fill="skyblue") +
+  labs(title="Histogram of verb duration",
+       x="Duration rating",
+       y="Count") + 
+  xlim(c(1,5)) + 
+  ylim(c(0,20)) +
+  geom_density(col="red")
+```
+
+##Verb Arousal
+```{r}
+hist(df$Arousal,
+     main="Histogram of verb arousal",
+     xlab="Arousal rating",
+     col="skyblue",
+     breaks=seq(1, 5, by=0.5))
+```
+
+##Verb Valence
+```{r}
+hist(df$Valence,
+     main="Histogram of verb valence",
+     xlab="Valence rating",
+     col="skyblue",
+     breaks=seq(1, 5, by=0.5))
+```
+
+#Correlations
+```{r}
+plot(df$Duration, df$Arousal,
+     main="Distribution of verbs by duration and arousal",
+     xlab="Duration",
+     ylab="Arousal")
+```
+```{r}
+cor(df$Duration, df$Arousal)
+```
+
+```{r}
+plot(df$Duration, df$Valence,
+     main="Distribution of verbs by duration and valence",
+     xlab="Duration",
+     ylab="Valence")
+```
+
+```{r}
+plot(df$Valence, df$Arousal,
+     main="Distribution of verbs by valence and arousal",
+     xlab="Valence",
+     ylab="Arousal")
+```

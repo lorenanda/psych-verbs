@@ -1,0 +1,55 @@
+Domain,Experiencer,Verb,Duration,Arousal,Valence
+anger,OE,a enerva,2.20,3.86,1.4
+anger,OE,a supăra,2.20,3.14,1.95
+anger,OE,a frustra,2.60,3.43,1.35
+anger,OE,a irita,2.00,2.87,1.55
+anger,OE,a provoca,2.40,3.29,1.25
+disgust,OE,a dezgusta,1.80,3.00,1.75
+disgust,OE,a ofensa,1.20,2.57,3
+disgust,OE,a respinge,3.40,3.71,1.35
+disgust,OE,a se rușina,1.40,2.86,1.45
+disgust,OE,a umili,1.60,3.43,1.9
+fear,OE,a înfiora,1.57,3.29,1.75
+fear,OE,a îngrijora,2.43,2.57,2.6
+fear,OE,a înfricoșa,1.86,4.00,1.35
+fear,OE,a preocupa,2.86,3.14,1.35
+fear,OE,a șoca,1.14,3.86,1.9
+fear,OE,a speria,1.43,3.43,1.55
+fear,OE,a stresa,2.71,3.29,1.55
+happiness,OE,a bucura ,2.29,3.86,1.9
+happiness,OE,a însufleți,2.86,4.00,1.55
+happiness,OE,a înviora,1.86,3.57,2.05
+happiness,OE,a amuza,1.86,2.29,1.75
+happiness,OE,a încânta,2.71,3.86,2
+happiness,OE,a satisface,3.14,3.29,3.25
+sadness,OE,a plictisi,1.86,2.14,2.55
+sadness,OE,a deprima,2.86,3.86,1.65
+sadness,OE,a dezamăgi,2.57,4.14,1.45
+sadness,OE,a întrista,2.57,3.29,1.55
+surprise,OE,a mira,1.17,2.83,3.4
+surprise,OE,a interesa,3.57,3.14,4.55
+surprise,OE,a uimi,1.71,3.86,4.55
+surprise,OE,a fascina,2.57,3.57,4.15
+surprise,OE,a impresiona,2.29,3.57,4.55
+anger,SE,a se enerva,1.60,3.57,4.45
+anger,SE,a se supăra,2.20,3.29,4.5
+disgust,SE,a urî,3.00,3.57,4.4
+fear,SE,a dispera,2.29,3.86,4.25
+fear,SE,a se teme,2.67,3.50,4.35
+fear,SE,a se panica,1.14,3.43,4.3
+fear,SE,a panica,2.00,3.71,3.85
+fear,SE,a se înfiora,1.43,3.29,2.35
+fear,SE,a se îngrijora,2.57,3.29,1.7
+fear,SE,a se speria,1.00,3.43,1.45
+happiness,SE,a dori,4.14,4.00,1.65
+happiness,SE,a iubi,4.00,4.57,1.55
+happiness,SE,a plăcea,3.57,3.71,1.7
+happiness,SE,a se bucura,2.86,3.86,1.65
+happiness,SE,a se însufleți,2.57,3.27,4.15
+happiness,SE,a se înviora,2.00,3.14,3.2
+sadness,SE,a se plictisi,2.29,2.14,2.7
+sadness,SE,a se întrista,2.14,2.86,3
+sadness,SE,a suferi,3.14,3.57,3.45
+surprise,SE,a minuna,1.57,3.71,3.65
+surprise,SE,a se mira,1.14,2.29,4.15
+surprise,SE,a surprinde,1.86,3.29,3.9
