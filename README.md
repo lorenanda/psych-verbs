@@ -1,8 +1,8 @@
-# Fear and Loathing in Romanian: a data exploration on the sematic properties of psych-verbs
+# Fear and Loathing in Romanian: An experimental study on the sematic properties of psych-verbs
 
 
 ## Description
-This project was conducted during my Master's degree in Linguistics at Humboldt-Universität zu Berlin and was inspired by the reasearch of Prof. Elisabeth Verhoeven and .. on psych-verbs. 
+This project was conducted during my Master's degree in Linguistics at Humboldt-Universität zu Berlin and was inspired by the reasearch of Prof. Elisabeth Verhoeven and Hawthorn on psych-verbs. 
 
 Psychological verbs (also psych-verbs, experiencer verbs/predicates) describe the mental state or emotion of the participants (experiencers). A psych-verb is “any verb that carries psychological entailments with respect to one of its arguments (the Experiencer). A psychological entailment involves an individual being in a certain mental state” (Landau, 2010:54). “The experiencer role refers to a participant that undergoes an event affecting consciousness, i.e., an event of emotion, cognition, volition, perception, or bodily sensation” (Verhoeven, 2014). Thus, experiencer verbs license an experiencer/patiens which is animate and does not have control over the situation, and a stimulus argument/agens which is “the cause of an experiential situation or the target of a perceptual experience and can be either animate or inanimate” (Verhoeven, 2014:130). “Psych effects are “specific syntactic properties associated with experiencers” (Landau, 2010:6). “Psych predicates pose a challenge in linguistic analysis because they exhibit special properties that defy syntactic rules of argument structure. The analysis of psych predicates is important for the architecture of grammar, especially for the lexicon-syntax interface” (Rozwadowska:1).
 
@@ -15,4 +15,9 @@ I analyzed and visualized the resulting data in Python, using different librarie
 - for data visualization: matplotlib, seaborn
 - for clustering and classification: scikit-learn
  
-The complete data analysis is in the psych-verbs.ipynb Jupyther Notebook.
+The complete data analysis can be found in the [psych-verbs Jupyther Notebook](https://github.com/lorenanda/psych-verbs/blob/master/psych-verbs.ipynb).
+
+## Findings
+
+## Outlook / Discussion
+Thogh this experiment revealed some interesting findings, this subject can be explored further. The main limitation of this study is the small sample size of participants. Moreover, it would be interesting to explore whether there are difference by gender or age.
