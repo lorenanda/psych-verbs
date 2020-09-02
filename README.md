@@ -7,7 +7,7 @@ This project was conducted during my Master's degree in Linguistics at Humboldt-
 **Psych-verbs** (also psychological verbs or experiencer verbs/predicates) express the mental state or emotion of an experiencer. The experiencer role refers to a participant that undergoes an event affecting consciousness. The experiencer can appear in one of two positions: as subject (**subject experiencer - SE**) or as object (**object experiencer - OE**). For example, in the sentences:
 
 - *Jack scares Wendy.* - Wendy is the OE of an action (emotion) inflicted by Jack upon her.
-- *Wendy fears Jack.* - Wendy is the SE of an emotion that arises within her in response to Jack. 
+- *Wendy fears Jack.* - Wendy is the SE of an emotion that arises within her in response to Jack being perceived as a threat. 
 
 Even though the two verbs express the same emotion of fear, they have different syntactic structures, depending on the experiencer form. This structure appears to be unsystematic across languages, so there are no clear rules for which verbs are either OE, SE, or both. For this reason, psych-verbs pose a linguistic challenge in explaining the link between syntax and semantics. At the point of writing (early 2019), theoretical and experimental research has limited to popular languages (e.g., English, German, Japanese) and there are no experimental studies on Romanian psych-verbs. This is unfortunate, because native speakers' intuition can provide insights into a language. Therefore, my aim was to fill this research gap by conducting an experiment that reveals the semantic properties of psych-verbs in my native language, Romanian.
 
