@@ -30,12 +30,19 @@ The participants were selected through word of mouth. They were handed in the ve
 
 ## Data analysis
 I analyzed and visualized the collected data with Python, in three main parts:
-- descriptive analysis (by experiencer, emotion category, and verb)
-- clustering
-- classification.
-For this, I employed different libraries: pandas, seaborn, scikit-learn, 
+- descriptive analysis (by experiencer, emotion domain, rating feature, and verb)
+- clustering (K-Means)
+- classification (KNN).
+
+For this, I employed different libraries: pandas, seaborn, scikit-learn. 
  
 The complete data analysis can be found in the [psych-verbs Jupyther Notebook](https://github.com/lorenanda/psych-verbs/blob/master/psych-verbs.ipynb).
+
+## Findings
+- While OE and SE verbs have similar Duration and Arousal values, they differ significantly in terms of Valence. OE verbs have low Valence (mean 2.18, median 1.75), whereas SE verbs have positive Valence (mean 3.19, median 3.55). This means that emotions that are caused by external factors are perceived as negative, whereas emotions that arise within the experiencer are rather positive.
+- The emotions that last longest express Happiness in SE form, and the shortes ones express Fear in SE form.
+- The verbs with extreme Arousal levels express Happiness but also Sadness, in both OE and SE form. The most intense emotions, both positive and negative, belong to the Happiness and Sadness domains.
+- The most positive emotions express Surprise in OE form, while the most negative ones express Fear and Anger also in OE form.
 
 ## Discussion
 ### Limitations

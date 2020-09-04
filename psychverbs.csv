@@ -1,0 +1,55 @@
+Domain,Experiencer,Verb,Verb-EN,Duration,Arousal,Valence
+happiness,OE,a amuza,to amuse,1.86,2.29,1.75
+happiness,OE,a bucura ,to bring joy,2.29,3.86,1.9
+sadness,OE,a deprima,to depress,2.86,3.86,1.65
+sadness,OE,a dezamăgi,to disappoint,2.57,4.14,1.45
+disgust,OE,a dezgusta,to disgust,1.80,3.00,1.75
+fear,SE,a dispera,to despair,2.29,3.86,4.25
+happiness,SE,a dori,to wish,4.14,4.00,1.65
+anger,OE,a enerva,to annoy,2.20,3.86,1.4
+surprise,OE,a fascina,to fascinate,2.57,3.57,4.15
+anger,OE,a frustra,to frustrate,2.60,3.43,1.35
+surprise,OE,a impresiona,to impress,2.29,3.57,4.55
+happiness,OE,a încânta,to please,2.71,3.86,2
+fear,OE,a înfiora,to shadder,1.57,3.29,1.75
+fear,OE,a înfricoșa,to frighten,1.86,4.00,1.35
+fear,OE,a îngrijora,to worry,2.43,2.57,2.6
+happiness,OE,a însufleți,to enliven,2.86,4.00,1.55
+surprise,OE,a interesa,to interest,3.57,3.14,4.55
+sadness,OE,a întrista,to sadden,2.57,3.29,1.55
+happiness,OE,a înviora,to brighten up,1.86,3.57,2.05
+anger,OE,a irita,to irritate,2.00,2.87,1.55
+happiness,SE,a iubi,to love,4.00,4.57,1.55
+surprise,SE,a minuna,to amaze,1.57,3.71,3.65
+surprise,OE,a mira,to wonder,1.17,2.83,3.4
+disgust,OE,a ofensa,to offend,1.20,2.57,3
+fear,SE,a panica,to panic,2.00,3.71,3.85
+happiness,SE,a plăcea,to like,3.57,3.71,1.7
+sadness,OE,a plictisi,to bore,1.86,2.14,2.55
+fear,OE,a preocupa,to preoccupy,2.86,3.14,1.35
+anger,OE,a provoca,to provoke,2.40,3.29,1.25
+disgust,OE,a respinge,to reject,3.40,3.71,1.35
+happiness,OE,a satisface,to satisfy,3.14,3.29,3.25
+happiness,SE,a se bucura,to rejoice,2.86,3.86,1.65
+anger,SE,a se enerva,to get angry,1.60,3.57,4.45
+fear,SE,a se înfiora,to shadder,1.43,3.29,2.35
+fear,SE,a se îngrijora,to worry,2.57,3.29,1.7
+happiness,SE,a se însufleți,to enliven,2.57,3.27,4.15
+sadness,SE,a se întrista,to get sad,2.14,2.86,3
+happiness,SE,a se înviora,to brighten up,2.00,3.14,3.2
+surprise,SE,a se mira,to wonder,1.14,2.29,4.15
+fear,SE,a se panica,to panic,1.14,3.43,4.3
+sadness,SE,a se plictisi,to get bored,2.29,2.14,2.7
+disgust,OE,a se rușina,to be ashamed,1.40,2.86,1.45
+fear,SE,a se speria,to get scared,1.00,3.43,1.45
+anger,SE,a se supăra,to get annoyed,2.20,3.29,4.5
+fear,SE,a se teme,to fear,2.67,3.50,4.35
+fear,OE,a șoca,to shock,1.14,3.86,1.9
+fear,OE,a speria,to scare,1.43,3.43,1.55
+fear,OE,a stresa,to stress,2.71,3.29,1.55
+sadness,SE,a suferi,to suffer,3.14,3.57,3.45
+anger,OE,a supăra,to sadden,2.20,3.14,1.95
+surprise,SE,a surprinde,to surprise,1.86,3.29,3.9
+surprise,OE,a uimi,to amaze,1.71,3.86,4.55
+disgust,OE,a umili,to humiliate,1.60,3.43,1.9
+disgust,SE,a urî,to hate,3.00,3.57,4.4
