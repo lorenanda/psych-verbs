@@ -43,6 +43,8 @@ The complete data analysis can be found in the [psych-verbs Jupyther Notebook](h
 - The emotions that last longest express Happiness in SE form, and the shortes ones express Fear in SE form.
 - The verbs with extreme Arousal levels express Happiness but also Sadness, in both OE and SE form. The most intense emotions, both positive and negative, belong to the Happiness and Sadness domains.
 - The most positive emotions express Surprise in OE form, while the most negative ones express Fear and Anger also in OE form.
+- Panic is to Surprise as Satisfaction is to Suffering. 
+- Boring someone and being bored feel the same.
 
 ## Discussion
 ### Limitations
