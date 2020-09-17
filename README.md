@@ -37,6 +37,11 @@ I analyzed and visualized the collected data with Python, in three main parts:
 For this, I employed different libraries: pandas, seaborn, scikit-learn. 
  
 The complete data analysis can be found in the [psych-verbs Jupyther Notebook](https://github.com/lorenanda/psych-verbs/blob/master/psych-verbs.ipynb).
+### Requirements
+[Python 3](https://www.python.org/downloads/)
+~~~ 
+pip3 install -r requirements_psychverbs.txt
+~~~
 
 ## Findings
 - While OE and SE verbs have similar Duration and Arousal values, they differ significantly in terms of Valence. OE verbs have low Valence (mean 2.18, median 1.75), whereas SE verbs have positive Valence (mean 3.19, median 3.55). This means that emotions that are caused by external factors are perceived as negative, whereas emotions that arise within the experiencer are rather positive.
