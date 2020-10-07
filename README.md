@@ -32,7 +32,7 @@ The participants were selected through word of mouth. They were handed in the ve
 I analyzed and visualized the collected data with Python, in three main parts:
 - descriptive analysis (by experiencer, emotion domain, rating feature, and verb)
 - clustering (K-Means)
-- classification (KNN).
+- classification (KNN, Logistic Regression, Decision Tree, Random Forest).
 
 For this, I employed different libraries: pandas, seaborn, scikit-learn. 
  
