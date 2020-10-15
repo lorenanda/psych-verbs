@@ -28,13 +28,14 @@ The verbs were rated by 30 participants:
 ### Method
 The participants were selected through word of mouth. They were handed in the verb list in paper-form or sent via email and they completed it in one sitting. The verb list was randomized for each participant, so that the order of the verbs could not influence the ratings. 
 
-## Data analysis
-I analyzed and visualized the collected data with Python, in three main parts:
+## Descriptive analysis
 - descriptive analysis (by experiencer, emotion domain, rating feature, and verb)
+- *Tools*: pandas, seaborn
+
+## Predictive analysis
 - clustering (K-Means)
 - classification (KNN, Logistic Regression, Decision Tree, Random Forest).
-
-For this, I employed different libraries: pandas, seaborn, scikit-learn. 
+- *Tools*: scikit-learn 
  
 The complete data analysis can be found in the [psych-verbs Jupyther Notebook](https://github.com/lorenanda/psych-verbs/blob/master/psych-verbs.ipynb).
 ### Requirements
